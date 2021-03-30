@@ -1,0 +1,3 @@
+include ':logindialoglibrary'
+include ':app'
+rootProject.name = "Login Dialog"
